@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Macktss/jizhang-app-release/releases/download/v1.1.1/app-release.apk",
+  "changelog": "更新应用图标与版本号，版本号升级至 1.1.1",
+  "forceUpdate": false
+}
