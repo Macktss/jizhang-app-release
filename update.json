@@ -1,7 +1,1 @@
-{
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/Macktss/jizhang-app-release/releases/download/v1.1.2/jizhang-app-v1.1.2-build4.apk",
-  "changelog": "新增：打开 App 自动检查新版本并提示更新；「关于」页新增手动检查 App 更新入口",
-  "forceUpdate": false
-}
+{"versionCode":6,"versionName":"1.1.4","apkUrl":"https://github.com/Macktss/jizhang-app-release/releases/download/v1.1.4/jizhang-app-v1.1.4-build6-arm64.apk","changelog":"新增：账单/撸货/报价配置一键导出备份与恢复（关于页入口）；正式签名 + arm64 精简包","forceUpdate":false}
