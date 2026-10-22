@@ -1,1 +1,1 @@
-{"versionCode":8,"versionName":"1.2.0","apkUrl":"https://github.com/Macktss/jizhang-app-release/releases/download/v1.2.0/jizhang-app-v1.2.0-build8.apk","changelog":"新增：货单支持现金/花呗付款，净资产拆出可用现金与花呗待还；修复跨月货单回款本金漏算与备份恢复版本校验；正式签名版","forceUpdate":false}
+{"versionCode":9,"versionName":"1.2.1","apkUrl":"https://github.com/Macktss/jizhang-app-release/releases/download/v1.2.1/jizhang-app-v1.2.1-build9.apk","changelog":"修复：检查更新误报网络不可用——版本清单拉取支持多源回退（jsdelivr 主源不可达时自动切换 raw.githubusercontent / api.github.com）；正式签名版","forceUpdate":false}
