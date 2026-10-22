@@ -1,1 +1,1 @@
-{"versionCode":6,"versionName":"1.1.4","apkUrl":"https://github.com/Macktss/jizhang-app-release/releases/download/v1.1.4/jizhang-app-v1.1.4-build6-arm64.apk","changelog":"新增：账单/撸货/报价配置一键导出备份与恢复（关于页入口）；正式签名 + arm64 精简包","forceUpdate":false}
+{"versionCode":8,"versionName":"1.2.0","apkUrl":"https://github.com/Macktss/jizhang-app-release/releases/download/v1.2.0/jizhang-app-v1.2.0-build8.apk","changelog":"新增：货单支持现金/花呗付款，净资产拆出可用现金与花呗待还；修复跨月货单回款本金漏算与备份恢复版本校验；正式签名版","forceUpdate":false}
