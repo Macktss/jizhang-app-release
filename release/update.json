@@ -1,0 +1,1 @@
+{"versionCode":16,"versionName":"1.5.0","apkUrl":"https://github.com/Macktss/jizhang-app-release/releases/download/v1.5.0/jizhang-app-v1.5.0-build16.apk","changelog":"记账时可以选「现金」还是「花呗」。以前用花呗买东西记一笔，可用现金会凭空少掉，现在不会了——花呗消费单独记入「待还花呗」，勾上「已还」才真正扣现金。明细里刷花呗的账单带标记，一眼能分清。统计页的待还金额现在包含日常花呗消费，不再是只算撸货。导出的 Excel 多了支付方式一列，旧表格文件仍可导入","forceUpdate":false}
